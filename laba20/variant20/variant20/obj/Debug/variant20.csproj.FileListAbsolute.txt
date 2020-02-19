@@ -1,0 +1,7 @@
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\bin\Debug\variant20.exe.config
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\bin\Debug\variant20.exe
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\bin\Debug\variant20.pdb
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\obj\Debug\variant20.csprojAssemblyReference.cache
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\obj\Debug\variant20.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\obj\Debug\variant20.exe
+C:\Users\tima\source\repos\2sem\laba20\variant20\variant20\obj\Debug\variant20.pdb

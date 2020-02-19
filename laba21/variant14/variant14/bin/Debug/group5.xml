@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="24.56">
+    <Student Surname="Ezhov">
+      <Group>T-795</Group>
+      <Course>3</Course>
+      <Semestr>2</Semestr>
+      <Salary>24.56</Salary>
+      <Marks>10 9 8 10 5 6 </Marks>
+      <LostLessons>40</LostLessons>
+    </Student>
+  </Group>
+  <Group GroupAttribute="22.45">
+    <Student Surname="Thief">
+      <Group>T-791</Group>
+      <Course>4</Course>
+      <Semestr>2</Semestr>
+      <Salary>22.45</Salary>
+      <Marks>10 9 8 10 5 6 </Marks>
+      <LostLessons>10</LostLessons>
+    </Student>
+  </Group>
+  <Group GroupAttribute="23.67">
+    <Student Surname="Zarenok">
+      <Group>T-792</Group>
+      <Course>2</Course>
+      <Semestr>2</Semestr>
+      <Salary>23.67</Salary>
+      <Marks>10 9 8 10 5 6 </Marks>
+      <LostLessons>20</LostLessons>
+    </Student>
+  </Group>
+  <Group GroupAttribute="45.34">
+    <Student Surname="Grom">
+      <Group>T-793</Group>
+      <Course>1</Course>
+      <Semestr>1</Semestr>
+      <Salary>45.34</Salary>
+      <Marks>10 9 8 10 5 6 </Marks>
+      <LostLessons>20</LostLessons>
+    </Student>
+  </Group>
+</Grouping>

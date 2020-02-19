@@ -1,0 +1,7 @@
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\obj\Debug\variant19.csprojAssemblyReference.cache
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\obj\Debug\variant19.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tima\source\repos\2sem\laba20\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
