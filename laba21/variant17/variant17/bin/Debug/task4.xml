@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Artist Name="Billie Eilish">
+  <Sex>female</Sex>
+  <Department>Hip-Hop</Department>
+  <Albom>
+    <Name>Dont smile at me</Name>
+    <GrammyNominations>6</GrammyNominations>
+    <Mark>8.4</Mark>
+    <Songs>15</Songs>
+  </Albom>
+</Artist>

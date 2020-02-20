@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="Sport">
+    <Game Name="Fifa14">
+      <Street>EA</Street>
+      <Mark>Sport</Mark>
+      <Open>2013-12-04T00:00:00</Open>
+      <Platform>PSC</Platform>
+      <Mark>8.5</Mark>
+    </Game>
+    <Game Name="Fifa20">
+      <Street>EA</Street>
+      <Mark>Sport</Mark>
+      <Open>2020-11-04T00:00:00</Open>
+      <Platform>PSC</Platform>
+      <Mark>8.9</Mark>
+    </Game>
+    <Game Name="NHL">
+      <Street>EA</Street>
+      <Mark>Sport</Mark>
+      <Open>2020-01-04T00:00:00</Open>
+      <Platform>PSC</Platform>
+      <Mark>7.3</Mark>
+    </Game>
+    <Game Name="Tennis">
+      <Street>Tennissprot</Street>
+      <Mark>Sport</Mark>
+      <Open>2020-03-04T00:00:00</Open>
+      <Platform>PSC</Platform>
+      <Mark>9.5</Mark>
+    </Game>
+    <Game Name="NBA">
+      <Street>EA</Street>
+      <Mark>Sport</Mark>
+      <Open>2020-05-04T00:00:00</Open>
+      <Platform>PSC</Platform>
+      <Mark>10</Mark>
+    </Game>
+  </Group>
+</Grouping>

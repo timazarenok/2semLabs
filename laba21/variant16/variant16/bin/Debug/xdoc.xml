@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Students>
+  <Book FullName="T.A.Z">
+    <Name>Timas</Name>
+    <Pages>400</Pages>
+    <Price>50.9</Price>
+    <Wrapper>soft</Wrapper>
+  </Book>
+  <Book FullName="G.H.R">
+    <Name>Harry Potter</Name>
+    <Pages>368</Pages>
+    <Price>75.8</Price>
+    <Wrapper>solid</Wrapper>
+  </Book>
+  <Book FullName="K.V.A">
+    <Name>Gretter</Name>
+    <Pages>235</Pages>
+    <Price>87.6</Price>
+    <Wrapper>soft</Wrapper>
+  </Book>
+  <Book FullName="A.A.A">
+    <Name>Linkityk</Name>
+    <Pages>876</Pages>
+    <Price>105.3</Price>
+    <Wrapper>solid</Wrapper>
+  </Book>
+  <Book FullName="D.M.D">
+    <Name>Seryt</Name>
+    <Pages>456</Pages>
+    <Price>56.2</Price>
+    <Wrapper>solid</Wrapper>
+  </Book>
+  <Book FullName="T.Y.Q">
+    <Name>GHERTYK</Name>
+    <Pages>765</Pages>
+    <Price>34.1</Price>
+    <Wrapper>soft</Wrapper>
+  </Book>
+  <Book FullName="Tima">
+    <Name>Timas</Name>
+    <Pages>23</Pages>
+    <Price>23.56</Price>
+    <Wrapper>soft</Wrapper>
+  </Book>
+</Students>

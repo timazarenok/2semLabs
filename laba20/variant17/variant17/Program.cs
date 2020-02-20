@@ -214,10 +214,6 @@ namespace variant17
                 new Artist("Big Baby Tape", "Hip-Hop", "male", new Albom("Dragon Born", 12, 8.5, 0))
             };
             Start(artists);
-            Start(artists);
-            Start(artists);
-            Start(artists);
-            Start(artists);
             Console.ReadKey();
         }
     }

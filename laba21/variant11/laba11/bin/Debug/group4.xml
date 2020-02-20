@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="3">
+    <Luggage Surname="Huraha">
+      <FlightNumber>1234567892</FlightNumber>
+      <Direction>Croatia</Direction>
+      <TimeOfOut>2002-09-23T00:00:00</TimeOfOut>
+      <WeightOfLuggage>23.55</WeightOfLuggage>
+      <AmountOfPlaces>3</AmountOfPlaces>
+    </Luggage>
+  </Group>
+  <Group GroupAttribute="2">
+    <Luggage Surname="Rubis">
+      <FlightNumber>5678549478</FlightNumber>
+      <Direction>Berlin</Direction>
+      <TimeOfOut>2003-08-22T00:00:00</TimeOfOut>
+      <WeightOfLuggage>23.1</WeightOfLuggage>
+      <AmountOfPlaces>2</AmountOfPlaces>
+    </Luggage>
+    <Luggage Surname="Shukalovich">
+      <FlightNumber>4567898764</FlightNumber>
+      <Direction>Samara</Direction>
+      <TimeOfOut>2005-06-20T00:00:00</TimeOfOut>
+      <WeightOfLuggage>4.5</WeightOfLuggage>
+      <AmountOfPlaces>2</AmountOfPlaces>
+    </Luggage>
+    <Luggage Surname="Vorobyov">
+      <FlightNumber>9786786754</FlightNumber>
+      <Direction>Masdrid</Direction>
+      <TimeOfOut>2008-03-25T00:00:00</TimeOfOut>
+      <WeightOfLuggage>21.2</WeightOfLuggage>
+      <AmountOfPlaces>2</AmountOfPlaces>
+    </Luggage>
+  </Group>
+  <Group GroupAttribute="1">
+    <Luggage Surname="Borshevskiy">
+      <FlightNumber>3456787654</FlightNumber>
+      <Direction>Minsk</Direction>
+      <TimeOfOut>2004-07-21T00:00:00</TimeOfOut>
+      <WeightOfLuggage>2.5</WeightOfLuggage>
+      <AmountOfPlaces>1</AmountOfPlaces>
+    </Luggage>
+    <Luggage Surname="Ezhov">
+      <FlightNumber>9854483473</FlightNumber>
+      <Direction>London</Direction>
+      <TimeOfOut>2009-02-26T00:00:00</TimeOfOut>
+      <WeightOfLuggage>22.7</WeightOfLuggage>
+      <AmountOfPlaces>1</AmountOfPlaces>
+    </Luggage>
+    <Luggage Surname="Kashko">
+      <FlightNumber>1000000000</FlightNumber>
+      <Direction>Tokyo</Direction>
+      <TimeOfOut>2010-01-27T00:00:00</TimeOfOut>
+      <WeightOfLuggage>12.5</WeightOfLuggage>
+      <AmountOfPlaces>1</AmountOfPlaces>
+    </Luggage>
+    <Luggage Surname="Birulya">
+      <FlightNumber>6660000000</FlightNumber>
+      <Direction>Vladivostock</Direction>
+      <TimeOfOut>2011-11-12T00:00:00</TimeOfOut>
+      <WeightOfLuggage>24.5</WeightOfLuggage>
+      <AmountOfPlaces>1</AmountOfPlaces>
+    </Luggage>
+  </Group>
+  <Group GroupAttribute="5">
+    <Luggage Surname="Malofey">
+      <FlightNumber>2323843343</FlightNumber>
+      <Direction>Moscow</Direction>
+      <TimeOfOut>2006-05-19T00:00:00</TimeOfOut>
+      <WeightOfLuggage>12.5</WeightOfLuggage>
+      <AmountOfPlaces>5</AmountOfPlaces>
+    </Luggage>
+  </Group>
+  <Group GroupAttribute="4">
+    <Luggage Surname="Zarenok">
+      <FlightNumber>1234123421</FlightNumber>
+      <Direction>Brest</Direction>
+      <TimeOfOut>2007-04-18T00:00:00</TimeOfOut>
+      <WeightOfLuggage>34.2</WeightOfLuggage>
+      <AmountOfPlaces>4</AmountOfPlaces>
+    </Luggage>
+  </Group>
+</Grouping>

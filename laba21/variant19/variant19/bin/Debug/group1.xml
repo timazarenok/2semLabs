@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="Gde-to">
+    <Cinema Name="Moscow">
+      <Street>Gde-to</Street>
+      <Mark>1</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+  <Group GroupAttribute="Plosha pobedi">
+    <Cinema Name="Mir">
+      <Street>Plosha pobedi</Street>
+      <Mark>1</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+  <Group GroupAttribute="Frunzenskaya">
+    <Cinema Name="Belarus">
+      <Street>Frunzenskaya</Street>
+      <Mark>5</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+  <Group GroupAttribute="Kuda-to">
+    <Cinema Name="Kiyv">
+      <Street>Kuda-to</Street>
+      <Mark>4</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+  <Group GroupAttribute="Akademia nauk">
+    <Cinema Name="Pioner">
+      <Street>Akademia nauk</Street>
+      <Mark>1</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+  <Group GroupAttribute="Dana mall">
+    <Cinema Name="Silver screen">
+      <Street>Dana mall</Street>
+      <Mark>5</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+  <Group GroupAttribute="Centre">
+    <Cinema Name="Oktyabr">
+      <Street>Centre</Street>
+      <Mark>3</Mark>
+      <Open>Tima Comedy sessions: 40 Russian Ice2 Love story sessions: 50 Russian Gentlmens Comedy sessions: 40 English Sex Education Love story sessions: 40 Russian Supernatural Fantasy sessions: 60 English Good doctor Love story/Comedy sessions: 40 Russian </Open>
+    </Cinema>
+  </Group>
+</Grouping>

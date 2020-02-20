@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Book FullName="A.A.A">
+  <Name>Linkityk</Name>
+  <Pages>876</Pages>
+  <Price>105.3</Price>
+  <Wrapper>solid</Wrapper>
+</Book>

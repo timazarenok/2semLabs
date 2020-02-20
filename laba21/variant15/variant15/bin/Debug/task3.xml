@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Departments>
+  <Department Name="Programmers">
+    <subjects> English  Kpiyap  ZKI  TRPO  Math </subjects>
+  </Department>
+  <Department Name="Layers">
+    <subjects> English  Kpiyap  ZKI  TRPO  Math </subjects>
+  </Department>
+  <Department Name="Stupids">
+    <subjects> English  Kpiyap  ZKI  TRPO  Math </subjects>
+  </Department>
+  <Department Name="Gamers">
+    <subjects> English  Kpiyap  ZKI  TRPO  Math </subjects>
+  </Department>
+  <Department Name="Economists">
+    <subjects> English  Kpiyap  ZKI  TRPO  Math </subjects>
+  </Department>
+</Departments>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="7">
+    <Department University="College of buisiness and law">
+      <Name>Programmers</Name>
+      <Professors>7</Professors>
+      <Subjects> English  Kpiyap  ZKI  TRPO  Math </Subjects>
+      <Surnames> Zarenok  Rubis  Vorobyov  Chekurin  Borshevskii </Surnames>
+    </Department>
+  </Group>
+  <Group GroupAttribute="10">
+    <Department University="College of buisiness and law">
+      <Name>Layers</Name>
+      <Professors>10</Professors>
+      <Subjects> English  Kpiyap  ZKI  TRPO  Math </Subjects>
+      <Surnames> Zarenok  Rubis  Vorobyov  Chekurin  Borshevskii </Surnames>
+    </Department>
+  </Group>
+  <Group GroupAttribute="15">
+    <Department University="Bntu">
+      <Name>Stupids</Name>
+      <Professors>15</Professors>
+      <Subjects> English  Kpiyap  ZKI  TRPO  Math </Subjects>
+      <Surnames> Zarenok  Rubis  Vorobyov  Chekurin  Borshevskii </Surnames>
+    </Department>
+  </Group>
+  <Group GroupAttribute="16">
+    <Department University="BGU">
+      <Name>Gamers</Name>
+      <Professors>16</Professors>
+      <Subjects> English  Kpiyap  ZKI  TRPO  Math </Subjects>
+      <Surnames> Zarenok  Rubis  Vorobyov  Chekurin  Borshevskii </Surnames>
+    </Department>
+  </Group>
+  <Group GroupAttribute="17">
+    <Department University="BGuir">
+      <Name>Economists</Name>
+      <Professors>17</Professors>
+      <Subjects> English  Kpiyap  ZKI  TRPO  Math </Subjects>
+      <Surnames> Zarenok  Rubis  Vorobyov  Chekurin  Borshevskii </Surnames>
+    </Department>
+  </Group>
+</Grouping>

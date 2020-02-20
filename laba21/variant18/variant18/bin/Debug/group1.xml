@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="Gde-to">
+    <Restaraunt Name="Tima">
+      <Street>Gde-to</Street>
+      <Mark>10</Mark>
+      <Open>PT2H3M4S</Open>
+      <Close>PT10H10M3S</Close>
+      <Orders>23.05.2002 5:04:04 price: 2514.01.2010 2:23:04 price: 3516.02.2043 1:15:04 price: 5518.03.2022 9:21:04 price: 7519.04.1890 2:23:04 price: 25</Orders>
+    </Restaraunt>
+  </Group>
+  <Group GroupAttribute="Gde-to2">
+    <Restaraunt Name="Denis">
+      <Street>Gde-to2</Street>
+      <Mark>9</Mark>
+      <Open>PT5H13M24S</Open>
+      <Close>PT13H10M3S</Close>
+      <Orders>23.05.2002 5:04:04 price: 2514.01.2010 2:23:04 price: 3516.02.2043 1:15:04 price: 5518.03.2022 9:21:04 price: 7519.04.1890 2:23:04 price: 25</Orders>
+    </Restaraunt>
+  </Group>
+  <Group GroupAttribute="Gde-to3">
+    <Restaraunt Name="Dima">
+      <Street>Gde-to3</Street>
+      <Mark>8</Mark>
+      <Open>PT6H23M24S</Open>
+      <Close>PT14H10M3S</Close>
+      <Orders>23.05.2002 5:04:04 price: 2514.01.2010 2:23:04 price: 3516.02.2043 1:15:04 price: 5518.03.2022 9:21:04 price: 7519.04.1890 2:23:04 price: 25</Orders>
+    </Restaraunt>
+  </Group>
+  <Group GroupAttribute="Gde-to4">
+    <Restaraunt Name="Valik">
+      <Street>Gde-to4</Street>
+      <Mark>7</Mark>
+      <Open>PT7H33M24S</Open>
+      <Close>PT15H10M3S</Close>
+      <Orders>23.05.2002 5:04:04 price: 2514.01.2010 2:23:04 price: 3516.02.2043 1:15:04 price: 5518.03.2022 9:21:04 price: 7519.04.1890 2:23:04 price: 25</Orders>
+    </Restaraunt>
+  </Group>
+  <Group GroupAttribute="Gde-to5">
+    <Restaraunt Name="Vladik">
+      <Street>Gde-to5</Street>
+      <Mark>6</Mark>
+      <Open>PT8H43M24S</Open>
+      <Close>PT16H10M3S</Close>
+      <Orders>23.05.2002 5:04:04 price: 2514.01.2010 2:23:04 price: 3516.02.2043 1:15:04 price: 5518.03.2022 9:21:04 price: 7519.04.1890 2:23:04 price: 25</Orders>
+    </Restaraunt>
+  </Group>
+  <Group GroupAttribute="Gde-to6">
+    <Restaraunt Name="Vladick">
+      <Street>Gde-to6</Street>
+      <Mark>7</Mark>
+      <Open>PT9H53M24S</Open>
+      <Close>PT17H10M3S</Close>
+      <Orders>23.05.2002 5:04:04 price: 2514.01.2010 2:23:04 price: 3516.02.2043 1:15:04 price: 5518.03.2022 9:21:04 price: 7519.04.1890 2:23:04 price: 25</Orders>
+    </Restaraunt>
+  </Group>
+</Grouping>

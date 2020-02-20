@@ -195,10 +195,6 @@ namespace variant18
                 new Restaraunt("Vladick", "Gde-to6", 7.0, new TimeSpan(9, 53, 24), new TimeSpan(17, 10, 3), orders)
             };
             Start(restaraunts);
-            Start(restaraunts);
-            Start(restaraunts);
-            Start(restaraunts);
-            Start(restaraunts);
             Console.ReadKey();
         }
     }

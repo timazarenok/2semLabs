@@ -1,0 +1,7 @@
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\obj\Debug\variant17.csprojAssemblyReference.cache
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\obj\Debug\variant17.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\bin\Debug\variant17.exe.config
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\bin\Debug\variant17.exe
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\bin\Debug\variant17.pdb
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\obj\Debug\variant17.exe
+C:\Users\tima\source\repos\2sem\laba21\variant17\variant17\obj\Debug\variant17.pdb

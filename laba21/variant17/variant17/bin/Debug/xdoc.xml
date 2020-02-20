@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Artists>
+  <Artist Name="Pharapoh">
+    <Sex>male</Sex>
+    <Department>Hip-Hop</Department>
+    <Albom>
+      <Name>Phuneral</Name>
+      <GrammyNominations>0</GrammyNominations>
+      <Mark>7.8</Mark>
+      <Songs>10</Songs>
+    </Albom>
+  </Artist>
+  <Artist Name="Billie Eilish">
+    <Sex>female</Sex>
+    <Department>Hip-Hop</Department>
+    <Albom>
+      <Name>Dont smile at me</Name>
+      <GrammyNominations>6</GrammyNominations>
+      <Mark>8.4</Mark>
+      <Songs>15</Songs>
+    </Albom>
+  </Artist>
+  <Artist Name="ASAP ROCKY">
+    <Sex>male</Sex>
+    <Department>Hip-Hop</Department>
+    <Albom>
+      <Name>Testing</Name>
+      <GrammyNominations>0</GrammyNominations>
+      <Mark>8.7</Mark>
+      <Songs>14</Songs>
+    </Albom>
+  </Artist>
+  <Artist Name="Big Baby Tape">
+    <Sex>male</Sex>
+    <Department>Hip-Hop</Department>
+    <Albom>
+      <Name>Dragon Born</Name>
+      <GrammyNominations>0</GrammyNominations>
+      <Mark>8.5</Mark>
+      <Songs>12</Songs>
+    </Albom>
+  </Artist>
+  <Artist Name="Tima">
+    <Sex>male</Sex>
+    <Department>Hip-hop</Department>
+    <Albom>
+      <Name>Ffefe</Name>
+      <GrammyNominations>22</GrammyNominations>
+      <Mark>2.3</Mark>
+      <Songs>23</Songs>
+    </Albom>
+  </Artist>
+</Artists>

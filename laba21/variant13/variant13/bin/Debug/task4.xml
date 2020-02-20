@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Houses>
+  <House House="20">
+    <Falts>128</Falts>
+  </House>
+  <House House="12">
+    <Falts>128</Falts>
+  </House>
+  <House House="187">
+    <Falts>360</Falts>
+  </House>
+  <House House="56">
+    <Falts>32</Falts>
+  </House>
+  <House House="12">
+    <Falts>120</Falts>
+  </House>
+  <Amount_flat_in_all_houses>768</Amount_flat_in_all_houses>
+</Houses>

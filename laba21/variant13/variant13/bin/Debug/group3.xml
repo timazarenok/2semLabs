@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Grouping>
+  <Group GroupAttribute="8">
+    <House Street="Melnikayte">
+      <Number>20</Number>
+      <CountEntries>4</CountEntries>
+      <CountFloors>8</CountFloors>
+      <Flats>4</Flats>
+    </House>
+    <House Street="Melnikayte">
+      <Number>12</Number>
+      <CountEntries>4</CountEntries>
+      <CountFloors>8</CountFloors>
+      <Flats>4</Flats>
+    </House>
+  </Group>
+  <Group GroupAttribute="10">
+    <House Street="Nezaleshnosti">
+      <Number>187</Number>
+      <CountEntries>6</CountEntries>
+      <CountFloors>10</CountFloors>
+      <Flats>6</Flats>
+    </House>
+  </Group>
+  <Group GroupAttribute="4">
+    <House Street="Masherova">
+      <Number>56</Number>
+      <CountEntries>2</CountEntries>
+      <CountFloors>4</CountFloors>
+      <Flats>4</Flats>
+    </House>
+  </Group>
+  <Group GroupAttribute="5">
+    <House Street="Kolesnikova">
+      <Number>12</Number>
+      <CountEntries>2</CountEntries>
+      <CountFloors>5</CountFloors>
+      <Flats>12</Flats>
+    </House>
+  </Group>
+</Grouping>

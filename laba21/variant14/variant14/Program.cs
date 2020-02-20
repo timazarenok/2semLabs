@@ -51,6 +51,28 @@ namespace variant14
             int choice = Convert.ToInt32(Console.ReadLine());
             return choice;
         }
+        public static double AverageMark(List<Mark> marks)
+        {
+            int sum = 0;
+            foreach (Mark i in marks)
+            {
+                sum += i.Value;
+            }
+            return sum / marks.Count;
+        }
+        public static XDocument CreateDocument(List<Student> list)
+        {
+            XDocument task1 = new XDocument(new XDeclaration("1.0", "utf-8", "yes"),
+                        new XElement("task", list.Select(st => new XElement("Student",
+                                    new XAttribute("Surname", st.Surname),
+                                    new XElement("Group", st.Group),
+                                    new XElement("Course", st.Course),
+                                    new XElement("Semestr", st.Semestr),
+                                    new XElement("Salary", st.Salary),
+                                    new XElement("Marks", st.GetMarks()),
+                                    new XElement("LostLessons", st.LostLessons)))));
+            return task1;
+        }
         public static XDocument CreateDocGroup<T>(IEnumerable<IGrouping<T, Student>> group)
         {
             XDocument doc = new XDocument(new XDeclaration("1.0", "utf-8", "yes"), new XElement("Grouping"));
@@ -67,28 +89,6 @@ namespace variant14
                                     new XElement("LostLessons", st.LostLessons)))));
             }
             return doc;
-        }
-        public static double AverageMark(List<Mark> marks)
-        {
-            int sum = 0;
-            foreach (Mark i in marks)
-            {
-                sum += i.Value;
-            }
-            return sum / marks.Count;
-        }
-        public static XDocument CreateDocument(List<Student> list)
-        {
-            XDocument task1 = new XDocument(new XDeclaration("1.0", "utf-8", "yes"),
-                        new XElement("task1", list.Select(st => new XElement("Student",
-                                    new XAttribute("Surname", st.Surname),
-                                    new XElement("Group", st.Group),
-                                    new XElement("Course", st.Course),
-                                    new XElement("Semestr", st.Semestr),
-                                    new XElement("Salary", st.Salary),
-                                    new XElement("Marks", st.GetMarks()),
-                                    new XElement("LostLessons", st.LostLessons)))));
-            return task1;
         }
         public static void SaveDoc(XDocument doc, string fileName)
         {

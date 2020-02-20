@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<task1>
+  <Zachetka GroupNumber="P-575">
+    <Course>2</Course>
+    <Semestr>3</Semestr>
+    <FullName>A.A.A</FullName>
+    <Number>33959345</Number>
+    <Exams>Math - 8Economy - 9Kpiyap - 9Practica - 9TRPO - 9ZKI - 9</Exams>
+  </Zachetka>
+  <Zachetka GroupNumber="T-795">
+    <Course>3</Course>
+    <Semestr>5</Semestr>
+    <FullName>T.Z.A</FullName>
+    <Number>13959873</Number>
+    <Exams>Math - 8Economy - 9Kpiyap - 9Practica - 9TRPO - 9ZKI - 9</Exams>
+  </Zachetka>
+  <Zachetka GroupNumber="D-675">
+    <Course>4</Course>
+    <Semestr>7</Semestr>
+    <FullName>A.F.A</FullName>
+    <Number>23959823</Number>
+    <Exams>Math - 4Economy - 2Kpiyap - 2Practica - 1TRPO - 7ZKI - 6</Exams>
+  </Zachetka>
+</task1>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Artist Name="Pharapoh">
+  <Sex>male</Sex>
+  <Department>Hip-Hop</Department>
+  <Albom>
+    <Name>Phuneral</Name>
+    <GrammyNominations>0</GrammyNominations>
+    <Mark>7.8</Mark>
+    <Songs>10</Songs>
+  </Albom>
+</Artist>

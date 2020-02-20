@@ -1,0 +1,7 @@
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\bin\Debug\laba11.exe.config
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\bin\Debug\laba11.exe
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\bin\Debug\laba11.pdb
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\obj\Debug\laba11.csprojAssemblyReference.cache
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\obj\Debug\laba11.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\obj\Debug\laba11.exe
+C:\Users\tima\source\repos\2sem\laba21\laba11\laba11\obj\Debug\laba11.pdb
