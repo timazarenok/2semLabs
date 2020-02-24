@@ -32,12 +32,12 @@
     <Marks>10 9 8 10 5 6 </Marks>
     <LostLessons>20</LostLessons>
   </Student>
-  <Student Surname="Kashko">
+  <Student Surname="Tima">
     <Group>T-795</Group>
-    <Course>3</Course>
-    <Semestr>2</Semestr>
-    <Salary>43.55</Salary>
+    <Course>4</Course>
+    <Semestr>5</Semestr>
+    <Salary>23.43</Salary>
     <Marks></Marks>
-    <LostLessons>23</LostLessons>
+    <LostLessons>100</LostLessons>
   </Student>
 </Students>
