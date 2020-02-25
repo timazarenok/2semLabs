@@ -1,0 +1,6 @@
+C:\Users\tima\source\repos\2sem\variant21\variant21\bin\Debug\variant21.exe.config
+C:\Users\tima\source\repos\2sem\variant21\variant21\bin\Debug\variant21.exe
+C:\Users\tima\source\repos\2sem\variant21\variant21\bin\Debug\variant21.pdb
+C:\Users\tima\source\repos\2sem\variant21\variant21\obj\Debug\variant21.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\2sem\variant21\variant21\obj\Debug\variant21.exe
+C:\Users\tima\source\repos\2sem\variant21\variant21\obj\Debug\variant21.pdb

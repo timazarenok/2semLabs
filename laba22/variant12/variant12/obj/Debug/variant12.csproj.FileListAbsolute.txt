@@ -1,0 +1,7 @@
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\bin\Debug\variant12.exe.config
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\bin\Debug\variant12.exe
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\bin\Debug\variant12.pdb
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\obj\Debug\variant12.csprojAssemblyReference.cache
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\obj\Debug\variant12.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\obj\Debug\variant12.exe
+C:\Users\tima\source\repos\2sem\laba22\variant12\variant12\obj\Debug\variant12.pdb
